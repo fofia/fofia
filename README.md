@@ -11,7 +11,7 @@ I’m Sofia Roblero a Designer that codes.
 
 🏊‍♂️ I started a project about tips and tricks for [swimming](https://www.instagram.com/aletasport/).
 
-🖨️ I coded [Fotocopiadora](https://fofia.github.io/) a web app editor for printing your receipts
+🖨️ I coded [Fotocopiadora](https://fofia.github.io/fotocopiadora/) a web app editor for printing your receipts
 
 You can check more about my skills and work on [Dribbble](https://dribbble.com/anomalylab).
 
