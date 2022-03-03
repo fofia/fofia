@@ -7,7 +7,7 @@ I’m Sofia Roblero a Designer that codes.
 
 🏷️ I sell stuff online on [Almacen](https://almacen.mercadoshops.com.mx/) an ecommerce store.
 
-📸 I like to take photos you can check them [here!](https://fofiane.tumblr.com/).
+📸 I like to take photos you can check them [here!](https://unsplash.com/@fofiane).
 
 🏊‍♂️ I started a project about tips and tricks for [swimming](https://www.instagram.com/aletasport/).
 
